@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Practical guide to dockerize a flask application"
 license =  "CC-BY-NC-SA-4.0"
 authors = [
-    {name = "Nimesh Garg",email = "nimeshgarg10@gmail.com"}
+    {name = "Nimesh Garg",email = "nimesh@somemail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
